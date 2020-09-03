@@ -1,0 +1,7 @@
+Subject,Rollno,StudName,Marks
+Maths,23,Harshit,80
+Science,34,Harshit,80
+Physics,34,Harshit,67
+Astronomy,101,Rajan,10
+DataScience,1,Prithvi,200
+Astronomy,1,Prithvi,20

@@ -1,0 +1,2 @@
+{Id:$Rollno, Name:$StudName,subject:$Subject,marks:$Marks}
+{Id:$Rollno, Name:$Subject,subject:$StudName,marks:$Marks}
